@@ -6,3 +6,4 @@ This is a list of my 100 days of Python challenge.
 -   [Tip Calculator](https://github.com/jamie-codeapp/100-days-of-python/tree/main/tip-calculator)
 -   [Treasure Island](https://github.com/jamie-codeapp/100-days-of-python/tree/main/treasure-island)
 -   [Rock Paper Scissors](https://github.com/jamie-codeapp/100-days-of-python/tree/main/rock-paper-scissors)
+-   [Password Generator](https://github.com/jamie-codeapp/100-days-of-python/tree/main/password-generator)
