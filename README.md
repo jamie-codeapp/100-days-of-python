@@ -9,3 +9,4 @@ This is a list of my 100 days of Python challenge.
 -   [Password Generator](https://github.com/jamie-codeapp/100-days-of-python/tree/main/password-generator)
 -   [Hangman](https://github.com/jamie-codeapp/100-days-of-python/tree/main/hangman)
 -   [Caesar Cipher](https://github.com/jamie-codeapp/100-days-of-python/tree/main/caesar-cipher)
+-   [Blind Auction](https://github.com/jamie-codeapp/100-days-of-python/tree/main/blind-auction)
