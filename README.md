@@ -11,3 +11,4 @@ This is a list of my 100 days of Python challenge.
 -   [Caesar Cipher](https://github.com/jamie-codeapp/100-days-of-python/tree/main/caesar-cipher)
 -   [Blind Auction](https://github.com/jamie-codeapp/100-days-of-python/tree/main/blind-auction)
 -   [Calculator](https://github.com/jamie-codeapp/100-days-of-python/tree/main/calculator)
+-   [Blackjack](https://github.com/jamie-codeapp/100-days-of-python/tree/main/blackjack)
