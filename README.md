@@ -13,3 +13,4 @@ This is a list of my 100 days of Python challenge.
 -   [Calculator](https://github.com/jamie-codeapp/100-days-of-python/tree/main/calculator)
 -   [Blackjack](https://github.com/jamie-codeapp/100-days-of-python/tree/main/blackjack)
 -   [Guess The Number](https://github.com/jamie-codeapp/100-days-of-python/tree/main/guess-the-number)
+-   [Higher Lower Game](https://github.com/jamie-codeapp/100-days-of-python/tree/main/higher-lower-game)
