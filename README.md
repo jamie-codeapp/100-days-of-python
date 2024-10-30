@@ -16,3 +16,4 @@ This is a list of my 100 days of Python challenge.
 -   [Higher Lower Game](https://github.com/jamie-codeapp/100-days-of-python/tree/main/higher-lower-game)
 -   [Coffee Machine](https://github.com/jamie-codeapp/100-days-of-python/tree/main/coffee-machine)
 -   [Quiz Game](https://github.com/jamie-codeapp/100-days-of-python/tree/main/quiz-game)
+-   [Hirst Painting](https://github.com/jamie-codeapp/100-days-of-python/tree/main/hirst-painting)
