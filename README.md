@@ -18,6 +18,5 @@ This is a list of my 100 days of Python challenge.
 -   [Quiz Game](https://github.com/jamie-codeapp/100-days-of-python/tree/main/quiz-game)
 -   [Hirst Painting](https://github.com/jamie-codeapp/100-days-of-python/tree/main/hirst-painting)
 -   [Hirst Painting](https://github.com/jamie-codeapp/100-days-of-python/tree/main/hirst-painting)
--   [OOP Password Generator](https://github.com/jamie-codeapp/100-days-of-python/tree/main/oop-band-name-generator)
 -   [Snake Game](https://github.com/jamie-codeapp/100-days-of-python/tree/main/snake-game)
 -   [Pong Game](https://github.com/jamie-codeapp/100-days-of-python/tree/main/pong-game)
