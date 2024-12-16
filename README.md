@@ -21,3 +21,4 @@ This is a list of my 100 days of Python challenge.
 -   [Snake Game](https://github.com/jamie-codeapp/100-days-of-python/tree/main/snake-game)
 -   [Pong Game](https://github.com/jamie-codeapp/100-days-of-python/tree/main/pong-game)
 -   [Turtle Crossing](https://github.com/jamie-codeapp/100-days-of-python/tree/main/turtle-crossing)
+-   [Pomodoro Timer](https://github.com/jamie-codeapp/100-days-of-python/tree/main/pomodoro-timer)
